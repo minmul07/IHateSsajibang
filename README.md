@@ -1,4 +1,6 @@
 # init
 
-
+## 2FA SECRET KEY
 EQ2SZVMAC3S5UFC25URWVOBM6IL23KSK
+
+구글로그인 개같네 ㅣㅇ거
