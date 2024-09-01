@@ -1,6 +1,3 @@
-# init
+# 사지방에서 만든 게임 모음집
 
-## 2FA SECRET KEY
-EQ2SZVMAC3S5UFC25URWVOBM6IL23KSK
-
-구글로그인 개같네 ㅣㅇ거
+전역하고싶어ㅓㅓ
